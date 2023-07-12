@@ -37,7 +37,7 @@ jobs:
                 - name: KAKAO_CLIENT_SECRET
                   value: 4BzzWqXQROUxaVg01WIw5HbtWPRPs6YL
                 - name: KAKAO_REDIRECT_URL
-                  value: http://localhost:8080/login/oauth2/code/kakao
+                  value: https://hooking.shop/login/oauth2/code/kakao
                 - name: SECRET_KEY
                   value: yexxi2118#
             context:
